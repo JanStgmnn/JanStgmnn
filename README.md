@@ -4,17 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janstgmnn" alt="janstgmnn" /> </p>
 
 - 🔭 I’m currently working on **[CipherBots](https://twitter.com/CipherBots)**
-
 - 🌱 I’m currently learning **Databases and front end development**
-
 - 👯 Hire me for **Discord Bots**
-
 - 👨‍💻 How to reach my business [https://twitter.com/CipherBots](https://twitter.com/CipherBots)
-
 - 📫 How to reach me [https://twitter.com/craziicooking](https://twitter.com/craziicooking)
-
 - 💬 Ask me about **Cipher, or generally Python, JS, etc.**
-
 - ⚡ **Why is 6 afraid of 7? 😉**
 
 <hr>
