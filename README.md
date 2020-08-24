@@ -12,7 +12,8 @@
 
 ### Spotify go here
 
-<img src="https://camo.githubusercontent.com/7c31e34a1f250a68edfaa8d85fd0c7be6b434b9d/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f74696679" alt="Spotify" data-canonical-src="https://janstgmnn.vercel.app/api/spotify" style="max-width:100%;">
+[<img src="https://novatorem.janstgmnn.vercel.app
+/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
 
 ### Languages and Tools:
 
