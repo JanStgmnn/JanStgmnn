@@ -19,11 +19,9 @@
 <hr>
 </hr>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janstgmnn&layout=compact&hide=html" alt="janstgmnn" /></p>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janstgmnn&show_icons=true" alt="janstgmnn" /></p>
-</details>
+### :zap: Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janstgmnn&layout=compact&hide=html" alt="janstgmnn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janstgmnn&show_icons=true" alt="janstgmnn" /></p>
 
 <p align="center">
 <a href="https://twitter.com/craziicooking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="craziicooking" height="30" width="30" /></a>
