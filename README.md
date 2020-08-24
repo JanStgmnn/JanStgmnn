@@ -9,10 +9,8 @@
 - 👨‍💻 How to reach my business [https://twitter.com/CipherBots](https://twitter.com/CipherBots)
 - 📫 How to reach me [https://twitter.com/craziicooking](https://twitter.com/craziicooking)
 - 💬 Ask me about **Cipher, or generally Python, JS, etc.**
-- ⚡ **Why is 6 afraid of 7? 😉**
 
-<hr>
-</hr>
+### Spotify go here
 
 ### Languages and Tools:
 
