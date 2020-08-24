@@ -12,7 +12,7 @@
 
 ### Spotify playing 🎧
 
-[![Spotify](https://novatorem.janstgmnn.vercel.app/api/spotify)](https://open.spotify.com/user/6cd365cd826e4d7697e9bf26674470a4)
+[![Spotify](https://novatorem.janstgmnn.vercel.app/api/spotify)](https://open.spotify.com/user/klqnv3jadti8maot7i9886516)
 
 ### Languages and Tools:
 
