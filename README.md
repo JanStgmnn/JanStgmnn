@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A cybersecurity student and developer from germany. Owner of CipherBots.</h3>
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[ICON NAME].svg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janstgmnn" alt="janstgmnn" /> </p>
 
 - 🔭 I’m currently working on **[CipherBots](https://twitter.com/CipherBots)**
