@@ -12,7 +12,7 @@
 
 ### Spotify go here
 
-[![Spotify](https://JanStgmnn.vercel.app/api/spotify)](https://open.spotify.com/user/JanStgmnn)
+[![Spotify](https://janstgmnn.vercel.app/api/spotify)](https://open.spotify.com/user/JanStgmnn)
 
 ### Languages and Tools:
 
