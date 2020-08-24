@@ -18,6 +18,10 @@
 - ⚡ **Why is 6 afraid of 7? 😉**
 
 <br />
+<hr>
+  ::before
+  ::after
+</hr>
 
 ### Languages and Tools:
 
