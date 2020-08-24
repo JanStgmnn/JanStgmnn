@@ -10,9 +10,9 @@
 - 📫 How to reach me [https://twitter.com/craziicooking](https://twitter.com/craziicooking)
 - 💬 Ask me about **Cipher, or generally Python, JS, etc.**
 
-### Spotify go here
+### Spotify playing 🎧
 
-[![Spotify](https://novatorem.janstgmnn.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem.janstgmnn.vercel.app/api/spotify)](https://open.spotify.com/user/6cd365cd826e4d7697e9bf26674470a4)
 
 ### Languages and Tools:
 
