@@ -12,7 +12,7 @@
 
 ### Spotify go here
 
-[![Spotify](https://janstgmnn.vercel.app/api/spotify)](https://open.spotify.com/user/JanStgmnn)
+<img src="https://camo.githubusercontent.com/7c31e34a1f250a68edfaa8d85fd0c7be6b434b9d/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f74696679" alt="Spotify" data-canonical-src="https://janstgmnn.vercel.app/api/spotify" style="max-width:100%;">
 
 ### Languages and Tools:
 
